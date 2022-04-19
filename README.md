@@ -8,8 +8,4 @@
 vnsafes/vnsafes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Chia sẻ cho anh em bản Hackintosh Momterey full install, 
-Ae nào dùng chung cấu hình Zbook 15 g2 thì tải về sửa lại chút nếu như phần cứng ae có hơi khác
-Còn ko thì cứ bỏ vào là ăn thôi, còn ae nào dùng Dell Precison M4800 thì sửa một chút trong Config nhé 
-Phiên bản hiện tại là 12.3.1 do tự tay mình build, ae nào thích thì tải về chơi nhé, full bộ cài đặt fix full all. 
-Link tải bộ cài đặt https://drive.google.com/file/d/16rv4J9diZuhYydQw9Z3EtnzdF4ZR7jkS/view?usp=sharing các bạn download ở đây nhé.
+Chia sẻ cho anh em nào chung cấu hình Zbook 15 g2 Core I7, HD Graphic 4800, Opencore 0.8.0. Bản Hackintosh này có thể dùng cả cho Dell Precision M4800, đây là bản Momterey 12.3.1 mới nhất do tự tay mình build EFI, ae nào thích thì tải về chơi nhé, full bộ cài đặt fix full all, chuẩn nhất hệ mặt trời 😜. Link Down: [Download](https://drive.google.com/file/d/1Q1nJMxKgGs0tKpfgBleVuOzEqfZYEJsc/view?usp=sharing) ![Ảnh chụp Màn hình 2022-04-19 lúc 08 20 18](https://user-images.githubusercontent.com/85863935/163903366-b3e4788b-d003-4ff1-a9de-2eb7b0d27794.png)
